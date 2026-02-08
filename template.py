@@ -10,14 +10,14 @@ project_name = 'cnnClassifier'
 
 list_of_files = [
 ".github/workflows/.gitkeep", 
-f"src/{project_name}_init_•py",
-f"src/{project_name}/components/_init_-py", 
+f"src/{project_name}_init_.py",
+f"src/{project_name}/components/_init_.py", 
 f"src/{project_name}/utils/_init_.py",
-f"src/{project_name}/config/_init_•py"
+f"src/{project_name}/config/_init_.py"
 f'src/{project_name}/config/configuration.py',
 f"src/{project_name}/pipeline/_init_.py", 
 f"src/{project_name}/entity/_init_.py"
-f"src/{project_name}/constants/_init_•py",
+f"src/{project_name}/constants/_init_.py",
 "config/config.yaml",
 "dvc.yaml",
 "params.yaml",
